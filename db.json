@@ -1,9 +1,31 @@
 {
     "dashboard-stats": {
-        "total_customers": 412,
-        "total_licenses": 1101,
-        "elearning_campaigns": 800,
-        "phishing_simulations": 1200
+        customers: {
+        total: 412,
+        active: 212,
+        inactive: 120,
+        suspended: 80,
+      },
+      licenses: {
+        total: 1101,
+        seatsInUse: 1001,
+        seatsNotInUse: 100,
+      },
+      elearningCampaigns: {
+        total: 1101,
+        active: 400,
+        noCampaign: 50,
+        scheduled: 191,
+        finished: 450,
+      },
+      phishingSimulations: {
+        total: 1101,
+        active: 300,
+        noCampaign: 400,
+        paused: 100,
+        scheduled: 200,
+        finished: 101,
+      },
     },
     "clients": [
         {
