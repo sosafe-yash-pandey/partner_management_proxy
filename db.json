@@ -120,7 +120,7 @@
             "activeLicense": 17,
             "totalLicense": 17,
             "renewInDays": 209,
-            "phishingSimulationStatus": "finished",
+            "phishingSimulationStatus": "no campaign",
             "elearningStatus": "paused",
             "domain": "iester.de",
             "languages": ["DE"],
