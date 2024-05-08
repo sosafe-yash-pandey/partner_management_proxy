@@ -34,10 +34,13 @@
             "createdOn": "2024-05-06T14:08:35.967Z",
             "subscription": "inactive",
             "activeLicense": 0,
-            "totalLicense": 0,
+            "totalLicense": 20,
             "renewInDays": 0,
             "phishingSimulationStatus": "inactive",
-            "elearningStatus": "inactive"
+            "elearningStatus": "inactive",
+            "domain": "ul.de",
+            "languages": ["DE"],
+            "country": "Germany"
         },
         {
             "name": "Koj-Klose",
@@ -45,10 +48,13 @@
             "createdOn": "2019-06-08T13:16:35.825Z",
             "subscription": "inactive",
             "activeLicense": 9,
-            "totalLicense": 0,
+            "totalLicense": 23,
             "renewInDays": 0,
             "phishingSimulationStatus": "inactive",
-            "elearningStatus": "inactive"
+            "elearningStatus": "inactive",
+            "domain": "lose.de",
+            "languages": ["DE"],
+            "country": "Germany"
         },
         {
             "name": "Rietscher, Schott und Obermaier",
@@ -59,7 +65,10 @@
             "totalLicense": 0,
             "renewInDays": 0,
             "phishingSimulationStatus": "inactive",
-            "elearningStatus": "inactive"
+            "elearningStatus": "inactive",
+            "domain": "bermaier.de",
+            "languages": ["DE"],
+            "country": "Germany"
         },
         {
             "name": "Obergföll GmbH & Co. KG",
@@ -70,7 +79,10 @@
             "totalLicense": 0,
             "renewInDays": 0,
             "phishingSimulationStatus": "inactive",
-            "elearningStatus": "inactive"
+            "elearningStatus": "inactive",
+            "domain": "G.de",
+            "languages": ["DE"],
+            "country": "Germany"
         },
         {
             "name": "Jess, Gotz und Leschnik",
@@ -81,7 +93,10 @@
             "totalLicense": 30,
             "renewInDays": 354,
             "phishingSimulationStatus": "no campaign",
-            "elearningStatus": "no campaign"
+            "elearningStatus": "no campaign",
+            "domain": "eschnik.de",
+            "languages": ["DE"],
+            "country": "Germany"
         },
         {
             "name": "Ruch-Dreissigacker",
@@ -92,7 +107,10 @@
             "totalLicense": 5,
             "renewInDays": 227,
             "phishingSimulationStatus": "no campaign",
-            "elearningStatus": "paused"
+            "elearningStatus": "paused",
+            "domain": "reissigacker.de",
+            "languages": ["DE"],
+            "country": "Germany"
         },
         {
             "name": "Losch, Vona und Riester",
@@ -103,7 +121,10 @@
             "totalLicense": 17,
             "renewInDays": 209,
             "phishingSimulationStatus": "finished",
-            "elearningStatus": "paused"
+            "elearningStatus": "paused",
+            "domain": "iester.de",
+            "languages": ["DE"],
+            "country": "Germany"
         }
     ],
     "pagination": {
